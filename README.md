@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duckzinho
 - 👀 I’m interested in progamming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me @contatocomduck@gmail.com 
+- 📫 How to reach me: contatocomduck@gmail.com 
 
 
 - 👀 More About Me:
