@@ -7,7 +7,7 @@
 - 👀 More About Me 
   {
 
-- Country: Brazilian
+- Country: Brazil
 - Favorite Food: Pizza
 - languages: Ingles and portugues
 - Programming languages: Python and Csharp(C#)
